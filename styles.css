@@ -196,6 +196,6 @@ button:active {
 
 @media screen and (max-width: 570px) {
     label {
-        width: 90%;
+        width: 100%;
     }
 }

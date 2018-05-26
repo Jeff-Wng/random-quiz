@@ -27,11 +27,11 @@ var questions = [
         answer: "b"
     },
     {
-        question: "What is the fear of confined places?",
+        question: "Which is the fastest land animal?",
         choices: {
-            a: "Oneirophobia",
-            b: "Claustrophobia",
-            c: "Nelophobia"
+            a: "Pronghorn",
+            b: "Cheeta",
+            c: "Springbokgit"
         },
         answer: "b"
     },
