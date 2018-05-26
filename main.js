@@ -9,11 +9,11 @@ var questions = [
         answer: "a"
     },
     {
-        question: "Which is NOT one of the Seven Wonders of the Ancient World?",
+        question: "What year was the first moon landing?",
         choices: {
-            a: "Lighthouse of Alexandria",
-            b: "Temple of Artemis",
-            c: "The Great Wall of China"
+            a: "1975",
+            b: "1972",
+            c: "1969"
         },
         answer: "c"
     },
